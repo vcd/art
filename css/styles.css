@@ -1,5 +1,7 @@
 /* Your Website Styles */
-
+h1, p {
+	font-family: 'Poiret One', cursive;
+}
 
 
 /* Show Grid */
